@@ -71,4 +71,4 @@ Real-World Experience Integration (Year 4): Dedicate time for students to gain p
 Lifelong Learning and Curiosity Cultivation: Integrate elements within the curriculum that promote continual learning and general knowledge upkeep.  Additionally, encourage extracurricular activities to nurture creativity and a sense of wonder. This will keep students' "inner child" alive and fuel their intellectual curiosity throughout their careers.
 
 This revamped curriculum prioritizes application-based learning, allows for specialization, integrates real-world experience, and encourages a lifelong love of learning. It equips students with the necessary skills to thrive in the dynamic world of technology.
-
+------
